@@ -1,0 +1,7 @@
+COPYRIGHT ZAMIUR 2004-2016 (C)
+
+This is for free usage at home, work, school etc. If you got this by paying money, ask for a refund. 
+Source available at GitHub: GitHub.com/Zamiur/Windows_Bash
+As of 1/5/2016 Source was removed.
+
+Version 2.1

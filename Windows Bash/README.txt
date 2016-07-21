@@ -154,8 +154,6 @@ xargs.exe
 yes.exe
 
 ========================================================================
-The following files are compiled by CENIT from GPLed source code
-available via http://win-bash.sourceforge.net
 ========================================================================
 
 bash.exe
